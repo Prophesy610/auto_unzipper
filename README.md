@@ -24,7 +24,7 @@ This script is ideal for situations where you need to quickly extract and remove
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/auto-unzipper.git
+    git clone https://github.com/prophesy610/auto_unzipper.git
     cd auto-unzipper
     ```
 
